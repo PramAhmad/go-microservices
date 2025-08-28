@@ -1,4 +1,4 @@
-# Golang Microservices
+# Microservices in Go
 
 A **Microservices Architecture** consists of a collection of small, autonomous **services**. Each **service** is self-contained and should implement a single business capability. 
 
@@ -433,4 +433,5 @@ https://docs.microsoft.com/en-us/azure/architecture/microservices/interservice-c
 http://howtocookmicroservices.com/communication
 
 https://dzone.com/articles/building-microservices-inter-process-communication-2
+
 
